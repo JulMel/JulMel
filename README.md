@@ -1,4 +1,4 @@
-# Ahoj, jsem Julie 👋
+# Ahoj, já jsem Julie 👋
 
 Původně jsem působila v sociální oblasti, ale postupně jsem se začala věnovat vývoji webových a mobilních aplikací.  
 Učím se krok za krokem a na této stránce najdete výběr projektů, které jsem vytvořila v rámci různých kurzů i osobní praxe.
