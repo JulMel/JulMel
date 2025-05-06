@@ -8,6 +8,7 @@ Zaměřuji se především na:
 - tvorbu a úpravu komponent,
 - řešení drobných issue z GitHubu,
 - manuální testování nových funkcionalit.
+  
 Tato zkušenost mi umožňuje rozvíjet nejen technické dovednosti, ale také schopnost pracovat s kódem v týmu, reagovat na zpětnou vazbu a chápat workflow běžné vývojářské praxe.
 
 ---
