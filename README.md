@@ -41,19 +41,18 @@ Tato zkušenost mi umožňuje rozvíjet nejen technické dovednosti, ale také s
 
 | Název projektu | Popis | Technologie |
 |----------------|-------|-------------|
-| [React Native App 1](#) | Např. seznam úkolů pro mobil | React Native, JS |
-| [React Native App 2](#) | Např. přehrávač, kalkulačka | React Native, JS |
+| [1.-React-Native-project](https://github.com/JulMel/1.-React-Native-project) | Kalkulačka | React Native, JS |
+| [ToDo-app](https://github.com/JulMel/ToDo-app) | Úkolníček | React Native, JS |
 
 ---
 
 ## 📫 Kontakt
 
 - ✉️ juliemelicharova@seznam.cz  
-- 💼 [LinkedIn (volitelný)](https://linkedin.com/in/...)  
-- 🌐 Portfolio (pokud máš)  
 
 ---
 
-💬 *Tento profil je průběžně aktualizovaný. V tuto chvíli se dále učím práci s React Routerem, správou stavů a responsivním designem.*  
-Díky, že ses sem podíval/a!
+💬 *Tento profil průběžně aktualizuji. Aktuálně pokračuji v rozšiřování znalostí v Reactu a JavaScriptu.*  
+Děkuji za zhlédnutí!
+
 
