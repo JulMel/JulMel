@@ -35,7 +35,7 @@ Tato zkušenost mi umožňuje rozvíjet nejen technické dovednosti, ale také s
 | [Calendar](https://github.com/JulMel/Calendar) | Kalendář měsíců s filtrem | React, JS, CSS |
 | [Madeira Itinerary](https://github.com/JulMel/Madeira-itinerary) | Carousel s denním plánem cesty | React, JS, CSS |
 | [Form](https://github.com/JulMel/Form) | Formulář | React, JS, CSS |
-| [Lorem ipsum navigátor](https://github.com/JulMel/Lorem-ipsum-gener-tor | Generátor "lorem ipsum" | React, JS, CSS |
+| [Lorem ipsum generátor](https://github.com/JulMel/Lorem-ipsum-gener-tor | Generátor "lorem ipsum" | React, JS, CSS |
 
 ---
 
