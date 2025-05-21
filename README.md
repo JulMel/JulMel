@@ -36,6 +36,7 @@ Tato zkušenost mi umožňuje rozvíjet nejen technické dovednosti, ale také s
 | [Madeira Itinerary](https://github.com/JulMel/Madeira-itinerary) | Carousel s denním plánem cesty | React, JS, CSS |
 | [Form](https://github.com/JulMel/Form) | Formulář | React, JS, CSS |
 | [Lorem ipsum](https://github.com/JulMel/Lorem-ipsum) | Generátor "lorem ipsum" | React, JS, CSS |
+| [Nakupni seznam](https://github.com/JulMel/Nakupni-seznam) | Formulář pro zadávání položek na seznam | React, JS, CSS |
 
 
 ---
