@@ -37,7 +37,7 @@ Tato zkušenost mi umožňuje rozvíjet nejen technické dovednosti, ale také s
 | [Form](https://github.com/JulMel/Form) | Formulář | React, JS, CSS |
 | [Lorem ipsum](https://github.com/JulMel/Lorem-ipsum) | Generátor "lorem ipsum" | React, JS, CSS |
 | [Nakupni seznam](https://github.com/JulMel/Nakupni-seznam) | Formulář pro zadávání položek na seznam | React, JS, CSS |
-
+| [Vánoční cukroví](https://github.com/JulMel/Cukrovi) | Webová aplikace pro výběr, filtrování a objednávku cukroví | React, TypeScript, Vite, CSS |
 
 ---
 
