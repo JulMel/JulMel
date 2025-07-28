@@ -38,7 +38,7 @@ Tato zkušenost mi umožňuje rozvíjet nejen technické dovednosti, ale také s
 | [Lorem ipsum](https://github.com/JulMel/Lorem-ipsum) | Generátor "lorem ipsum" | React, JS, CSS |
 | [Nakupni seznam](https://github.com/JulMel/Nakupni-seznam) | Formulář pro zadávání položek na seznam | React, JS, CSS |
 | [Vánoční cukroví](https://github.com/JulMel/Cukrovi) | Webová aplikace pro výběr, filtrování a objednávku cukroví | React, TypeScript, Vite, CSS |
-| [Vánoční cukroví](https://github.com/JulMel/Plysaci) | Web s plyšovými zvířátky s filtrem podle názvu | React, TypeScript, CSS |
+| [Plyšová zvířátka](https://github.com/JulMel/Plysaci) | Web s plyšovými zvířátky s filtrem podle názvu | React, TypeScript, CSS |
 
 ---
 
