@@ -32,7 +32,7 @@ Tato zkušenost mi umožňuje rozvíjet nejen technické dovednosti, ale také s
 | [List](https://github.com/JulMel/List) | Seznam stromů s obrázky | React, JS, CSS |
 | [Chuck Norris Jokes](https://github.com/JulMel/Chuck-Norris-jokes) | Generátor vtipů z API | React, JS, CSS |
 | [ISS Position](https://github.com/JulMel/ISS-position) | Aktuální poloha ISS + mapa | React, JS, CSS |
-| [Calendar](https://github.com/JulMel/Calendar) | Kalendář měsíců s filtrem | React, JS, CSS |
+| [Calendar](https://github.com/JulMel/Calendar) | Kalendář měsíců s filtrem | React, JS, CSS, Jest |
 | [Madeira Itinerary](https://github.com/JulMel/Madeira-itinerary) | Carousel s denním plánem cesty | React, JS, CSS |
 | [Form](https://github.com/JulMel/Form) | Formulář | React, JS, CSS |
 | [Lorem ipsum](https://github.com/JulMel/Lorem-ipsum) | Generátor "lorem ipsum" | React, JS, CSS |
